@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copiar la carpeta de fuentes «src» a «Proyectofinal»&#x0A;- Proyecto original: «AplicaciónSenodialogo»&#x0A;- Elemento destino: «Proyectofinal»&#x0A;- Elemento original: «AplicaciónSenodialogo/src»" description="Copiar carpeta de fuente" destination="=Proyectofinal" element1="/src" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="1" stamp="1639533076326" version="1.0"/>
+</session>

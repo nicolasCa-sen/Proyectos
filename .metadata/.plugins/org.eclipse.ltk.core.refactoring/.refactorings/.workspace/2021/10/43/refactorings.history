@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Borrar el recurso «curso_uni»." deleteContents="true" description="Borrar el recurso «curso_uni»." element1="/curso_uni" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1635097409173"/>
+</session>

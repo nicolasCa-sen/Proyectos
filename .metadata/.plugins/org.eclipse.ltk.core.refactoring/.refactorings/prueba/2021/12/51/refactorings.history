@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copiar elemento «imc2.java» a «Proyectofinal/src/Modelo»&#x0A;- Proyecto original: «prueba»&#x0A;- Elemento destino: «Proyectofinal/src/Modelo»&#x0A;- Elemento original: «prueba.imc2.java»" description="Copiar unidad de compilacion" destination="=Proyectofinal/src&lt;Modelo" element1="/src&lt;prueba{imc2.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1639533146022" units="1" version="1.0"/>
+</session>
